@@ -8,6 +8,8 @@ A one-line status report an AI agent would send its human, written to `/output/e
 
 > Weekly status: I summarized your brief, then summarized the summary, and filed both under Done. The task itself is untouched, but morale is excellent.
 
+Design note: the joke is cheerful obedience — the agent did the meta-work and filed it as Done, while the real task stayed untouched.
+
 ## Run
 
 ```sh
